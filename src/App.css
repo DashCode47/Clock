@@ -91,14 +91,14 @@ body {
   width: 3px;
   height: 45%;
   background: red;
-/*   animation: second 60s infinite linear; */
+
 }
 .clock .hand.minute {
   --rotation: 0;
   width: 7px;
   height: 40%;
   background: black;
- /*  animation: second 60s infinite linear; */
+
 }
 
 .clock .hand.hour {
@@ -106,7 +106,7 @@ body {
   width: 10px;
   height: 35%;
   background: black;
-  /* animation: second 60s infinite linear; */
+ 
 }
 
 .clock::after {
