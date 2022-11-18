@@ -91,7 +91,7 @@ body {
   width: 3px;
   height: 45%;
   background: red;
-
+/*   animation: second 60s infinite linear; */
 }
 .clock .hand.minute {
   --rotation: 0;
